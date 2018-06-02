@@ -6,6 +6,6 @@
 
 #just run facedetect.py file
 #Some additional libraries are required. Please pip the following libraries to make it run
-#dlib opencv numpy tkinter simplegui
+#dlib cv2 numpy tkinter simplegui yattag imagetk
 
 #developeb by mucar
