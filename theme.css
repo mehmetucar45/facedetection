@@ -1,0 +1,34 @@
+h1,h2,h3,h4,a,div, a#center{
+text-align:center
+}
+
+.photo{
+width:500px;
+display: block;
+margin: auto;
+border:2px solid green;
+}
+
+#logo,#title{
+text-align:center;
+text-decoration:underline;
+}
+.faceparts{
+width:400px;
+display: block;
+margin: auto;
+border:2px solid green;
+}
+
+.faceparts-big{
+width:400px;
+display: block;
+margin: auto;
+border:2px solid green;
+}
+.fullface{
+width:500px;
+display: block;
+margin: auto;
+border:4px solid green;
+}
