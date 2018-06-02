@@ -6,6 +6,6 @@
 
 #just run facedetect.py file
 #Some additional libraries are required. Please pip the following libraries to make it run
-#dlib cv2 numpy tkinter simplegui yattag imagetk
+#dlib cv2 numpy tkinter simplegui yattag imagetk os
 
-#developeb by mucar
+#download shape_predictor_68_face_landmarks.dat file and place it in main directory.
